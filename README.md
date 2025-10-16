@@ -1,6 +1,7 @@
 ## Hi there 👋
 <br>
 this is ravikishan gaur.
+student BCA
 
 <!--
 **ravikishan45z/ravikishan45z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
